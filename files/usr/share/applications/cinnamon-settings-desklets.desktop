@@ -2,7 +2,7 @@
 Icon=cs-desklets
 Exec=cinnamon-settings desklets
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Desklets
 Name[af]=Werkskermprogramme

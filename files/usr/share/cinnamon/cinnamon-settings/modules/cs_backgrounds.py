@@ -328,13 +328,13 @@ class Module:
                     display_name = i.replace(".xml", "").replace("-", " ").replace("_", " ").split(" ")[-1].capitalize()
                     icon = "xsi-wallpaper-symbolic"
                     order = 10
-                    # Special case for Linux Mint. We don't want to use 'start-here' here as it wouldn't work depending on the theme.
+                    # Special case for MythicOS. We don't want to use 'start-here' here as it wouldn't work depending on the theme.
                     # Also, other distros should get equal treatment. If they define cinnamon-backgrounds and use their own distro name, we should add support for it.
                     if display_name == "Retro":
                         icon = "xsi-document-open-recent-symbolic"
                         order = 20 # place retro bgs at the end
                     if display_name == "Linuxmint":
-                        display_name = "Linux Mint"
+                        display_name = "MythicOS"
                         icon = "linuxmint-logo-badge-symbolic"
                         order = 0
                     backgrounds.append([[False, icon, display_name, xml_path, BACKGROUND_COLLECTION_TYPE_XML], display_name, order])

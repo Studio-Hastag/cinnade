@@ -2,7 +2,7 @@
 Icon=cs-windows
 Exec=cinnamon-settings windows
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Windows
 Name[af]=Vensters

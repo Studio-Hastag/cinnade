@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=Cinnamon Menu Editor
+Name=Cinnade Menu Editor
 Comment=Edit the entries of the Cinnamon menu applet
 Exec=cinnamon-menu-editor
 Icon=alacarte
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Terminal=false
 Type=Application
 NoDisplay=true

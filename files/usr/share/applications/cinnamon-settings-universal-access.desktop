@@ -2,7 +2,7 @@
 Icon=cs-universal-access
 Exec=cinnamon-settings accessibility
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Accessibility
 Name[af]=Toeganklikheid

@@ -1,6 +1,6 @@
-[Cinnamon Session]
-Name=Cinnamon
+[Cinnade Session]
+Name=Cinnade
 RequiredComponents=cinnamon;nemo-autostart;@REQUIRED@cinnamon-killer-daemon;
-DesktopName=X-Cinnamon
+DesktopName=X-Cinnade
 
 

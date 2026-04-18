@@ -2,7 +2,7 @@
 Icon=cs-general
 Exec=cinnamon-settings general
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=General
 Name[af]=Algemeen

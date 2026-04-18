@@ -2,7 +2,7 @@
 Icon=cs-panel
 Exec=cinnamon-settings panel
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Panel
 Name[af]=Paneel

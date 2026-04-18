@@ -2,7 +2,7 @@
 Icon=cs-thunderbolt
 Exec=cinnamon-settings thunderbolt
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Thunderbolt
 Comment=Manage Thunderbolt and USB4 devices

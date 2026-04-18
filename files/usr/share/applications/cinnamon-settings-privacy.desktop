@@ -2,7 +2,7 @@
 Icon=cs-privacy
 Exec=cinnamon-settings privacy
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Privacy
 Name[am]=የ ግል

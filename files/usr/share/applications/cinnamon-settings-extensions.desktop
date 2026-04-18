@@ -2,7 +2,7 @@
 Icon=cs-extensions
 Exec=cinnamon-settings extensions
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Extensions
 Name[af]=Uitbreidings

@@ -2,7 +2,7 @@
 Icon=cs-applets
 Exec=cinnamon-settings applets
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Applets
 Name[af]=Toepassingtjies

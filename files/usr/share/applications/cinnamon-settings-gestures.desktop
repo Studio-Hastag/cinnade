@@ -2,7 +2,7 @@
 Icon=cs-gestures
 Exec=cinnamon-settings gestures
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Gestures
 Name[ar]=الإيماءات

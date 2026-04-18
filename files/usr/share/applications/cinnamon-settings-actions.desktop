@@ -2,7 +2,7 @@
 Icon=cs-actions
 Exec=cinnamon-settings actions
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Actions
 Name[am]=ተግባሮች

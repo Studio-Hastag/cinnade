@@ -2,7 +2,7 @@
 Icon=cs-overview
 Exec=cinnamon-settings hotcorner
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Hot Corners
 Name[am]=ጠርዞች
