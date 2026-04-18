@@ -2,7 +2,7 @@
 Icon=cs-power
 Exec=cinnamon-settings power
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Power Management
 Name[af]=Kragbestuur

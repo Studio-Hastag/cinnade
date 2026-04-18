@@ -2,7 +2,7 @@
 Icon=cs-workspaces
 Exec=cinnamon-settings workspaces
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Workspaces
 Name[af]=Werkspasies

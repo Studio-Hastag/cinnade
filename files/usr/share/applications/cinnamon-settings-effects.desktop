@@ -2,7 +2,7 @@
 Icon=cs-desktop-effects
 Exec=cinnamon-settings effects
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Effects
 Name[af]=Effekte

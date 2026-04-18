@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Cinnamon
-Comment=This session logs you into Cinnamon
+Name=Cinnade
+Comment=This session logs you into Cinnade
 Exec=cinnamon-session-cinnamon
 TryExec=@bindir@/cinnamon
 Icon=

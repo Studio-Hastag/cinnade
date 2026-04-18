@@ -2,7 +2,7 @@
 Icon=cs-backgrounds
 Exec=cinnamon-settings backgrounds
 Type=Application
-OnlyShowIn=X-Cinnamon;
+OnlyShowIn=X-Cinnade;
 Categories=Settings;
 Name=Backgrounds
 Name[af]=Agtergronde
